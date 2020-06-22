@@ -1,2 +1,2 @@
 ResNetの作成
-train.pyを実行すれば学習開始
+#train_ResNet.pyを実行すれば学習開始
